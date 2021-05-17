@@ -1,5 +1,8 @@
 # Prueba2
 Prueba 2 Programación Web -  Duoc
+
 Desarrollador: Jaime Muñoz
-Profesor: Fernando Sepulverda
+
+Profesor: Fernando Sepulveda
+
 Sección: 009V
