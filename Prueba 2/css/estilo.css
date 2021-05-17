@@ -1,0 +1,42 @@
+#btn-nav{
+    margin-left: 2%;
+}
+
+#a-inicio{
+    font-weight: bold;
+    font-size: large;
+    border-style: solid;
+    border-width: thin;
+    background-color: aliceblue;
+}
+
+.div-img{
+    width: 100%;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    border-style: solid;  
+}
+
+.p-bienvenido{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-formulario{
+    width: 40%;
+    max-width: 50%;
+}
+
+#mensajes{
+    color: red;
+    font-weight: bold;
+}
+
+#mensajes-exito{
+    color: green;
+    font-weight: bold;
+}
